@@ -1,3 +1,3 @@
-# travel-app
+# flight-app
 
 My flight search app.
